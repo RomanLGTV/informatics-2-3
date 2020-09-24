@@ -1,1 +1,1 @@
-# informatics-2-3
+Git: git-scm.org
